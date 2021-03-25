@@ -1,0 +1,10 @@
+#para-div-1{
+height: fit-content;
+width: fit-content;
+float: left;
+}
+#para-div-2{
+    height:fit-content;
+    width: fit-content;
+    float: right;
+}
